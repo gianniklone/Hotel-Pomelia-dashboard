@@ -1,0 +1,8 @@
+{
+  "Kwh": 123.5,
+  "logs": [
+    "Sistema avviato",
+    "Pannello 1 funzionante",
+    "Pannello 2 fermo"
+  ]
+}
